@@ -83,3 +83,10 @@ int main() {
     g.kruskal();
     return 0;
 }
+
+//ANS:=
+// 0 - 1 : 2
+// 1 - 2 : 3
+// 1 - 4 : 5
+// 0 - 3 : 6
+// Total MST cost: 16

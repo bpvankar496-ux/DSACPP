@@ -67,3 +67,5 @@ int main() {
     return 0;
 }
 
+//ANS:=
+//5 4 2 3 1 0 

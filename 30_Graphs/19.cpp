@@ -66,3 +66,10 @@ int main() {
     g.dijkstra(0);
     return 0;
 }
+
+// ANS:=
+// dist[0] = 0
+// dist[1] = 2
+// dist[2] = 3
+// dist[3] = 7
+// dist[4] = 6

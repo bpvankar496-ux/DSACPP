@@ -24,3 +24,7 @@ int main() {
     cout << tribonacci(25) << endl; // 1389537
     return 0;
 }
+
+//ANS:=
+// 4
+// 1389537

@@ -50,3 +50,8 @@ int main() {
     // 42
     return 0;
 }
+
+// ANS:=
+// Recursion: 42
+// Memoization: 42
+// Tabulation: 42

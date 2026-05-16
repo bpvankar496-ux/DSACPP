@@ -74,3 +74,7 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//No cycle
+//Cycle exists

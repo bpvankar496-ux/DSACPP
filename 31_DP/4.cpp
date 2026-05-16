@@ -64,3 +64,8 @@ int main() {
     // 220
     return 0;
 }
+
+// ANS:=
+// Recursion: 220
+// Memoization: 220
+// Tabulation: 220

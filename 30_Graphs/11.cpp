@@ -60,3 +60,6 @@ int main() {
     cout << (g.isBipartite() ? "Bipartite" : "Not Bipartite") << endl;
     return 0;
 }
+
+//ANS:=
+//Bipartite

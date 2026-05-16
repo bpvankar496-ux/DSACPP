@@ -63,3 +63,6 @@ int main() {
     cout << (g.isCycleDir() ? "Cycle exists" : "No cycle") << endl;
     return 0;
 }
+
+//ANS:=
+//Cycle exists

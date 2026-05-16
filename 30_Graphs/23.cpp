@@ -43,3 +43,6 @@ int main() {
     // 500 (0->2->3 with 1 stop)
     return 0;
 }
+
+//ANS:=
+//600

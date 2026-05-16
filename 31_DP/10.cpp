@@ -30,3 +30,6 @@ int main() {
     // 2 (AB)
     return 0;
 }
+
+//ANS:=
+//2

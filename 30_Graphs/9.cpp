@@ -54,3 +54,6 @@ int main() {
     cout << (g.isCycleUndir() ? "Cycle exists" : "No cycle") << endl;
     return 0;
 }
+
+//ANS:=
+//Cycle exists

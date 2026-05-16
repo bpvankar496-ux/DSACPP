@@ -47,3 +47,6 @@ int main() {
     // 2 3
     return 0;
 }
+
+//ANS:=
+//2 3

@@ -46,3 +46,7 @@ int main() {
     // aa b
     return 0;
 }
+
+//ANS:=
+// a a b 
+// aa b 

@@ -54,3 +54,6 @@ int main() {
     // 2
     return 0;
 }
+
+//ANS:=
+//2

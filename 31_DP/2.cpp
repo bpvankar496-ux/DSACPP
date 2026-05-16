@@ -41,3 +41,8 @@ int main() {
     // 8
     return 0;
 }
+
+//ANS:=
+// Recursion: 8
+// Memoization: 8
+// Tabulation: 8

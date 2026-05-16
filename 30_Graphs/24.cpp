@@ -56,3 +56,7 @@ int main() {
     cout << ds.isConnected(0, 3) << endl; // 0 (false)
     return 0;
 }
+
+//ANS:=
+//1
+//0

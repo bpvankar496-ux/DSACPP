@@ -1,4 +1,4 @@
-// Question 7: Course Schedule III
+    // Question 7: Course Schedule III
 // Maximum courses complete karo — Greedy + Priority Queue
 #include <iostream>
 #include <vector>
@@ -38,3 +38,6 @@ int main() {
     // 3
     return 0;
 }
+
+//ANS:=
+//3

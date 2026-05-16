@@ -73,3 +73,10 @@ int main() {
     g.prims();
     return 0;
 }
+
+// ANS:=
+// 0 - 1 : 2
+// 1 - 2 : 3
+// 0 - 3 : 6
+// 1 - 4 : 5
+// Total MST cost: 16

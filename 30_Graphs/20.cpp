@@ -57,3 +57,10 @@ int main() {
     g.bellmanFord(0);
     return 0;
 }
+
+// ANS:=
+// dist[0] = 0
+// dist[1] = 2
+// dist[2] = 3
+// dist[3] = 9
+// dist[4] = 6
