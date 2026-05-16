@@ -41,3 +41,6 @@ int main() {
 
     inorder(root);
 }
+
+//ANS:=
+//3 1 2 

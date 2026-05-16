@@ -22,3 +22,6 @@ int main() {
 // i=0 → arr[0]=1 ≠ 3, next
 // i=1 → arr[1]=2 ≠ 3, next
 // i=2 → arr[2]=3 = 3  → return 2
+
+//ANS:=
+//2

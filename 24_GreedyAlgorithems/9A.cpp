@@ -22,3 +22,6 @@ int main() {
     cout << "Output: " << balancedStringSplit(s) << endl;
     return 0;
 }
+
+//ANS:=
+//Output: 4

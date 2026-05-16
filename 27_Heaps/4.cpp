@@ -22,12 +22,17 @@ public:
 int main() {
     priority_queue<Student> pq;
 
-    pq.push(Student("aman", 500));
-    pq.push(Student("bhumika", 1000));
-    pq.push(Student("chetan", 100));
+    pq.push(Student("Harsh", 500));
+    pq.push(Student("Bhoomika", 1000));
+    pq.push(Student("Vivek", 100));
 
     while(!pq.empty()) {
         cout << pq.top().name << " " << pq.top().marks << endl;
         pq.pop();
     }
 }
+
+// ANS:=
+// Bhoomika 1000
+// Harsh 500
+// Vivek 100

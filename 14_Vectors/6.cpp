@@ -15,3 +15,7 @@ int main() {
     cout << endl;
     return 0;
 }
+
+// ANS:=
+// 10
+// -1 -1 -1 -1 -1 -1 -1 -1 -1 -1   //INDEX AND VALUE (a,b)a index etli var b print

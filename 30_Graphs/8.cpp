@@ -66,3 +66,7 @@ int main() {
     g.bfs();
     return 0;
 }
+
+//ANS:=
+// 0 1 2 3 4 
+//5 6 

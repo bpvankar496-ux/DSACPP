@@ -1,4 +1,7 @@
 //cpy,cmp,cut in string
+// strcat()  -> 2 string ne jode
+// strcpy()  -> 1 string bijama copy kare
+// strcmp()  -> 2 string compare kare
 #include <iostream>
 #include <cstring>
 using namespace std;
@@ -25,3 +28,8 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// After strcat: HelloWorld
+// After strcpy: HelloWorld
+// str1 is smaller

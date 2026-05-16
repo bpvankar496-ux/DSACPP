@@ -57,3 +57,6 @@ int main() {
     cout << "Inversion Count = " << getInversions(arr, n) << endl;
     return 0;
 }
+
+//ANS:=
+//Inversion Count = 2

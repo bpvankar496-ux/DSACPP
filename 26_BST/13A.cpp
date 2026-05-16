@@ -40,3 +40,6 @@ int main() {
 
     cout << kthSmallest(root, 2);
 }
+
+//ANS:=
+//5

@@ -29,3 +29,6 @@ int main() {
     cout << trap(height);
     return 0;
 }
+
+//ANS:=
+//25

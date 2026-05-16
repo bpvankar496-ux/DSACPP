@@ -29,3 +29,6 @@ int main() {
 
     cout << isUnival(root) << endl; // 1 = true
 }
+
+//ANS:=
+//1

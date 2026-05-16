@@ -54,3 +54,6 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// 1 -> 2 -> 3 -> NULL

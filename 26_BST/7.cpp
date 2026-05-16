@@ -49,3 +49,6 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//Inorder: 1 2 3 4 5 6 7 

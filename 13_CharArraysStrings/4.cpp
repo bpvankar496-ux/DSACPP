@@ -27,3 +27,7 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// Enter a string: MAAM
+// valid palindrome

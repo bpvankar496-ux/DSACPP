@@ -27,3 +27,8 @@ int main(){
 
     return 0;
 }
+
+// ANS:=
+// Set elements:
+// 1 3 5 
+// 3 Found

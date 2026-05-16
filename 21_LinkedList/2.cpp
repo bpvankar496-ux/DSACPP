@@ -61,3 +61,8 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// Linked List:
+// 1 -> 2 -> 2 -> 1 -> NULL
+// It is Palindrome

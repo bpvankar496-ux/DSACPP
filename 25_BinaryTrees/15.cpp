@@ -57,3 +57,6 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//Inorder after transform: 0 9 0 20 6 0 

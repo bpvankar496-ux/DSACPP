@@ -1,4 +1,4 @@
-// Inheritance ==>સરળ સમજ: જેમ બાળક ને માતા-પિતા ના ગુણ મળે, તેમ Child class ને Parent class ના properties અને methods મળે.
+// Inheritance ==>Jem child n parents na gun made varsama, તtem Child class ne Parent class na properties ane methods made
 #include<iostream>
 using namespace std;
 
@@ -26,10 +26,14 @@ public:
 
 int main() {
     Dog d;
-    d.name = "Tommy";        // Animal class માંથી મળ્યું
-    d.eat();                 // Animal class માંથી મળ્યું
-    d.breathe();             // Animal class માંથી મળ્યું
-    d.bark();                // Dog class નું પોતાનું
+    d.name = "Tommy";        // Animal class  mathi made
+    d.eat();                 // Animal class  mathi made
+    d.breathe();             // Animal class mathi made
+    d.bark();                // Dog class potanu
     
     return 0;
 }
+// ANS:=
+// Animal is eating
+// Animal is breathing
+// Dog is barking: Woof!

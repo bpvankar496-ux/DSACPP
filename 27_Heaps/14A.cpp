@@ -34,3 +34,7 @@ int main() {
     mf.addNum(3);
     cout << mf.findMedian();
 }
+
+//ANS:=
+//1.5
+//2

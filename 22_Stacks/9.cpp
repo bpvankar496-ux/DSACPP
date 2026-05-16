@@ -34,3 +34,6 @@ bool isValid(string str) {
 int main() {
     cout << isValid("({})") << endl; // 1
 }
+
+//ANS:=
+//1

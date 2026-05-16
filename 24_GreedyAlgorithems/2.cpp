@@ -61,3 +61,26 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// ------ Original Activities ------
+// A0 : 0, 9
+// A1 : 1, 2
+// A2 : 2, 4
+// A3 : 5, 7
+// A4 : 8, 9
+
+// ------ Sorted Activities (by end time) ------
+// A1 : 1, 2
+// A2 : 2, 4
+// A3 : 5, 7
+// A0 : 0, 9
+// A4 : 8, 9
+
+// ------ Selected Activities ------
+// Selecting A1
+// Selecting A2
+// Selecting A3
+// Selecting A4
+
+// Maximum number of activities: 4

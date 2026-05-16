@@ -40,3 +40,5 @@ int main() {
     return 0;
 }
 
+//ANS:=
+//Majority elements: 1 

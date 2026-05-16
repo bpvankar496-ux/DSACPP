@@ -1,11 +1,11 @@
 // Encapsulation → data ane functions ne ek class ma wrap karvu + data hiding (security mate)
-// 👉 Example: private variables + getter/setter
+//  Example: private variables + getter/setter
 // Inheritance → ek class biji class na properties/functions use kare
-// 👉 Code reuse thay
+//  Code reuse thay
 // Abstraction → unnecessary details hide kari ne only important part batavu
-// 👉 User ne andar su thay e janvu jaruri nathi
+//  User ne andar su thay e janvu jaruri nathi
 // Polymorphism → ek function/naam na alag-alag forms hoy
-// 👉 Same function, different behavior
+// Same function, different behavior
 
 #include <iostream>
 using namespace std;
@@ -60,3 +60,12 @@ int main() {
 
     return 0;
 }
+// ANS:=
+// Constructor without params
+// Constructor with params
+// Constructor with params
+// Copy constructor called
+
+// Car 1 Name: Maruti 800
+// Car 2 Name: Fortuner
+// Car 3 Name (copy of c1): Maruti 800

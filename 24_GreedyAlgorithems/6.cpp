@@ -38,3 +38,12 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// Coins used:
+// 500 x 2
+// 50 x 1
+// 20 x 2
+// 5 x 1
+// 2 x 2
+// min coins for change = 8

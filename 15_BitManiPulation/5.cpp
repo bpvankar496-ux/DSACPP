@@ -26,3 +26,7 @@ int main() {
     cout << getIthBit(7, 1) << endl;
     return 0;
 }
+
+//ANS:=
+//1
+//1

@@ -22,3 +22,7 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//Front: 1
+//After pop, Front: 2

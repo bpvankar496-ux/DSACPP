@@ -39,3 +39,6 @@ int main() {
 
     cout << "Sum: " << sumNodes(root) << endl;
 }
+
+//ANS:=
+//Sum: 21

@@ -28,3 +28,7 @@ int main() {
     oddOrEven(8);
     return 0;
 }
+
+//ANS:=
+//odd
+//even

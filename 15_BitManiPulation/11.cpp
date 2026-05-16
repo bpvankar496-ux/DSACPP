@@ -20,3 +20,5 @@ int main() {
     countSetBits(7);
     return 0;
 }
+//ANS:=
+//3

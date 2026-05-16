@@ -1,4 +1,4 @@
-//Static Keyword==> Static variable બધા objects વચ્ચે share થાય - એક જ copy.
+//Static Keyword==> Static variable badha objects vacche share thy - ekj copy.
 #include <iostream>
 using namespace std;
 

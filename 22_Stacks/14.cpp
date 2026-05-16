@@ -29,3 +29,6 @@ int main() {
     vector<int> stock = {100,80,60,70,60,85,100};
     stockSpan(stock);
 }
+
+//ANS:=
+//1 1 1 2 1 5 7 

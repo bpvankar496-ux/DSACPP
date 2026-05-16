@@ -1,4 +1,4 @@
-// Virtual Function==>Parent pointer થી Child નો function call થાય - Runtime Polymorphism.cpp
+// Virtual Function==>Parent pointer Thi Child no function call thy 
 #include <iostream>
 using namespace std;
 
@@ -23,3 +23,6 @@ int main() {
     a->speak();  // → Dog barks (bcz of virtual so child ne call thayo)
     return 0;
 }
+
+//ANS:=
+//Dog barks

@@ -1,4 +1,4 @@
-//Question:આપેલ number માં i થી j સુધીના bits clear કરો. 
+//Question:Aapela number ma i thi j sudhina bits clear karo. 
 #include <iostream>
 using namespace std;
 
@@ -16,3 +16,5 @@ int main() {
     clearBitsInRange(15, 1, 3);
     return 0;
 }
+//ANS:=
+//1

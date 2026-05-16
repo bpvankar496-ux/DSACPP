@@ -15,3 +15,6 @@ int main() {
     cout << isPowerOf2(15) << endl;
     return 0;
 }
+//ANS:=
+//1
+//0

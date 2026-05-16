@@ -15,3 +15,6 @@ int main() {
     return 0;
 }
 //f(n) = f(n-1) + (n-1) * f(n-2)
+
+//ANS:=
+//10

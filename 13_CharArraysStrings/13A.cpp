@@ -38,3 +38,8 @@ int main() {
     cout << isValid("(]") << "\n";      // 0 = false
     return 0;
 }
+
+//ANS:=
+//1
+//1
+//0

@@ -1,4 +1,4 @@
-//valid anagram
+//valid anagram==> JE BE STRING SAME HOI ONLY LETTER  NO ORDER ALG HOI
 #include <iostream>
 #include <string>
 using namespace std;
@@ -34,3 +34,6 @@ int main() {
     isAnagram(str1, str2);
     return 0;
 }
+
+//ANS:=
+//valid anagrams

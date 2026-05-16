@@ -109,3 +109,9 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// z
+// dog
+// du
+// dov

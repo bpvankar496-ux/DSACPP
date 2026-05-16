@@ -75,3 +75,6 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//Top View: 4 2 1 3 6 

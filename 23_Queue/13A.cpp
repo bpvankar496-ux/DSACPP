@@ -25,3 +25,6 @@ int main() {
     vector<int> cost = {3,4,5,1,2};
     cout << canCompleteCircuit(gas, cost);
 }
+
+//ANS:=
+//3

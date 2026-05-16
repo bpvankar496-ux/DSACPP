@@ -18,3 +18,9 @@ int main() {
     B obj;
     return 0;
 }
+
+// ANS:=
+// Constructor A
+// Constructor B
+// Destructor B
+// Destructor A

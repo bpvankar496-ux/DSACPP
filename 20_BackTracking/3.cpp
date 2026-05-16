@@ -23,3 +23,11 @@ int main() {
     permutations(str, ans);
     return 0;
 }
+
+// ANS:=
+// abc
+// acb
+// bac
+// bca
+// cab
+// cba

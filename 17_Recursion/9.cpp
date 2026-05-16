@@ -15,5 +15,8 @@ int main() {
     cout << tilingProblem(5) << endl; //2x5
     return 0;
 }
-// Vertical મૂકો  → બાકી રહ્યું 2×(n-1) → tilingProblem(n-1)
-// Horizontal મૂકો → બાકી રહ્યું 2×(n-2) → tilingProblem(n-2)
+// Vertical MUKO  → bakinu 2×(n-1) → tilingProblem(n-1)
+// Horizontal MUKO → bakinu2×(n-2) → tilingProblem(n-2)
+
+//ANS:=
+//8

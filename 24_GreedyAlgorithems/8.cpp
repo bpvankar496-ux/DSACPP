@@ -78,3 +78,9 @@ int main() {
 
     return 0;
 }
+
+ //ANS:=
+// Selecting jobs:
+// Job2
+// Job0
+// max profit = 60

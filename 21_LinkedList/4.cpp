@@ -133,3 +133,7 @@ int main(){
 //         cycle start node mळe = tyathi next = NULL karo!
 
 //node vagr j akho code lkhya vagr j easy way ch list<int>ll avu lkhvathi avi j jay
+
+// ANS:=
+// cycle exists
+// 1 -> 2 -> 3 -> 4 -> NULL

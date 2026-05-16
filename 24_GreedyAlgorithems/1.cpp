@@ -31,3 +31,10 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//selecting A0
+// selecting A1
+// selecting A3
+// selecting A4
+// Maximum number of activities: 4

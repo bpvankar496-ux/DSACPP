@@ -21,7 +21,7 @@ class HashTable {
     int currSize;
     Node** table;
 
-    // 🔹 Hash Function
+    //  Hash Function
     int HashFunction(string key) {
         int idx = 0;
         int p = 1;
@@ -34,7 +34,7 @@ class HashTable {
     }
 
 public:
-    // 🔹 Constructor
+    //  Constructor
     HashTable(int size = 7) {
         totSize = size;
         currSize = 0;
@@ -46,7 +46,7 @@ public:
         }
     }
 
-    // 🔹 Insert (chaining)
+    //  Insert (chaining)
     void insert(string key, int val) {
         int idx = HashFunction(key);
 
@@ -59,7 +59,7 @@ public:
         currSize++;
     }
 
-    // 🔹 Search
+    //  Search
     int search(string key) {
         int idx = HashFunction(key);
         Node* temp = table[idx];
@@ -73,7 +73,7 @@ public:
         return -1;
     }
 
-    // 🔹 Print table
+    //  Print table
     void print() {
         for (int i = 0; i < totSize; i++) {
             cout << i << " -> ";
@@ -103,3 +103,13 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+// 0 -> NULL
+// 1 -> (grapes,40) -> (apple,10) -> NULL
+// 2 -> (mango,30) -> (banana,20) -> NULL
+// 3 -> NULL
+// 4 -> NULL
+// 5 -> NULL
+// 6 -> NULL
+// Search apple: 10

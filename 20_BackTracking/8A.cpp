@@ -44,3 +44,14 @@ int main(){
 // pos = current digit position
 // drek digit na drek letter try karo
 // pos == len thay tyare ek combination complete — print karo
+
+//ANS:=
+// ad
+// ae
+// af
+// bd
+// be
+// bf
+// cd
+// ce
+// cf

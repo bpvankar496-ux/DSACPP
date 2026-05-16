@@ -1,4 +1,4 @@
-//. Creating Dynamic Array =>runtime ma size decide kari ne array banavvu
+//Creating Dynamic Array =>runtime ma size decide kari ne array banavvu
 
 #include <iostream>
 using namespace std;
@@ -21,3 +21,13 @@ int main(){
     delete[] arr;  // free memory
     return 0;
 }
+
+//ANS:=
+// Enter size: 5
+// 1 22 3 456 7
+// 1 22 3 456 7
+
+// Enter size: 5
+// 1 34 5 7 8 45
+// 1 34 5 7 8 
+// delete[] arr extra memory delete kare  

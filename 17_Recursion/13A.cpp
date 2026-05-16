@@ -23,3 +23,5 @@ int main() {
     cout << binSearch(arr, 0, n-1, key) << endl;
     return 0;
 }
+//ANS:=
+//4

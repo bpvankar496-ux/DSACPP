@@ -21,3 +21,6 @@ int main() {
     cout << candidate << endl;
     return 0;
 }
+
+//ANS:=
+//3

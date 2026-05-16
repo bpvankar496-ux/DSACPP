@@ -101,3 +101,18 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// Count of all solutions: 2
+
+// All solutions: 
+// . Q . . 
+// . . . Q 
+// Q . . . 
+// . . Q . 
+
+// . . Q . 
+// Q . . . 
+// . . . Q 
+// . Q . . 
+

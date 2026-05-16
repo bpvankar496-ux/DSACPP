@@ -56,3 +56,7 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//Car 0
+//Car 2

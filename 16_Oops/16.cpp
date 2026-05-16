@@ -1,4 +1,4 @@
-// Abstraction==> જરૂરી વસ્તુ બતાવો, અંદરની detail છુપાવો.
+// Abstraction==> jaruri vastu btave, andrni detail chupavo
 #include <iostream>
 using namespace std;
 
@@ -18,3 +18,6 @@ int main() {
     // b.password    // no Access 
     return 0;
 }
+
+// ANS:=
+// Balance: 5000

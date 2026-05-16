@@ -38,3 +38,8 @@ int main() {
     obj1.show();
     obj2.show();
 }
+// ANS:=
+// Value: 10
+// Value: 50
+// Destructor called
+// Destructor called

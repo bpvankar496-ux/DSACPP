@@ -1,4 +1,4 @@
-// Operator Overloading==>+, -, * જેવા operators ને custom classes માટે redefine કરવા.
+// Operator Overloading==>+, -, *  operators Ne custom classes mate redefine karva
 #include <iostream>
 using namespace std;
 
@@ -41,3 +41,7 @@ int main() {
     
     return 0;
 }
+// ANS:=
+// c1 = 1 + 2i
+// c2 = 3 + 4i
+// res = 4 + 6i

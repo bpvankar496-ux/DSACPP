@@ -7,9 +7,7 @@ int getVowelCount(string str) {
     int vowCount = 0;
 
     for(int i=0; i<str.length(); i++) {
-        if(str[i] == 'a' || str[i] == 'e' ||
-           str[i] == 'i' || str[i] == 'o' ||
-           str[i] == 'u') {
+        if(str[i] == 'a' || str[i] == 'e' ||str[i] == 'i' || str[i] == 'o' || str[i] == 'u') {
             vowCount++;
         }
     }
@@ -24,3 +22,7 @@ int main() {
     cout << "Vowel count: " << getVowelCount(str) << "\n";
     return 0;
 }
+
+// ANS:=
+// String enter karo: Ishaa
+// Vowel count: 2

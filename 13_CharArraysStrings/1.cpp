@@ -12,6 +12,7 @@ void toUpper(char word[], int n) {
         } else { // lowercase
             word[i] = ch - 'a' + 'A';
         }
+        
     }
 }
 
@@ -32,3 +33,6 @@ int main() {
 
     return 0;
 }
+//ANS:=
+// Enter a string: bHoomika
+// BHOOMIKA

@@ -16,3 +16,5 @@ int main() {
     cout << setIthBit(6, 3) << endl;
     return 0;
 }
+//ANS:=
+//14

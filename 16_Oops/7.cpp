@@ -1,4 +1,4 @@
-// Single Inheritan==>એક Parent → એક Child
+// Single Inheritan==>ekk Parent → ekk Child
 
 #include<iostream>
 using namespace std;
@@ -19,7 +19,7 @@ public:
     float marks;
     
     void resultInfo() {
-        studentInfo();   // Parent ની method વાપરી
+        studentInfo();   // Parent ni method vapri
         cout << "Marks: " << marks << endl;
         
         if(marks >= 35)
@@ -39,3 +39,9 @@ int main() {
     
     return 0;
 }
+
+// ANS:=
+// Name: Raj
+// Roll No: 101
+// Marks: 75.5
+// Result: PASS 

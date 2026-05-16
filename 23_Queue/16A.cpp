@@ -52,3 +52,7 @@ int main() {
     cache.put(3, 3);
     cout << cache.get(2) << endl; // -1
 }
+
+//ANS:=
+//1
+//-1

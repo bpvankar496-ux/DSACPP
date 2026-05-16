@@ -32,3 +32,7 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//Enter a string: BHOOmIKA
+//bhoomika

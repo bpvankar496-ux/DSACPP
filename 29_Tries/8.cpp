@@ -88,3 +88,6 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//Unique Substrings = 10

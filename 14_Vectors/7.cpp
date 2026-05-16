@@ -13,3 +13,9 @@ int main() {
     cout << "capacity : " << vec.capacity() << endl; //6
     return 0;
 }
+
+// ANS:=
+// size : 3
+// capacity : 3
+// size : 4
+// capacity : 6

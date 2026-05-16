@@ -35,3 +35,6 @@ int main() {
     cout << search(arr, 0, n-1, tar) << endl;
     return 0;
 }
+
+//ANS:=
+//0

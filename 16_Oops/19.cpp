@@ -20,3 +20,7 @@ int main() {
     //  Main end
     //  Destroyed  (program end thy tyare)
 }
+// ANS:=
+// Created
+// Main end
+// Destroyed

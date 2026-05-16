@@ -39,3 +39,14 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// Assignment: Hello
+// Concat: Hello World
+// Append: Hello Bhai
+// 1
+// 0
+// 1
+// 1
+// 1
+// Index [1]: e

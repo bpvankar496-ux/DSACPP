@@ -42,3 +42,6 @@ int main() {
 
     cout << "Height: " << height(root) << endl;
 }
+
+//ANS:=
+//Height: 3

@@ -1,4 +1,4 @@
-//Overriding ==>Parent class ના function ને Child class માં redefine કરવો.
+//Overriding ==>Parent class Na function ne Child class ma redefine karvo.
 
 #include <iostream>
 using namespace std;
@@ -33,3 +33,7 @@ int main() {
 
 // Overriding   →  Parent-Child, Same params
 //                 Animal::speak() & Dog::speak()
+
+// ANS:=
+// Animal speaks
+// Dog barks

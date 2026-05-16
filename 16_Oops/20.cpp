@@ -1,4 +1,4 @@
-//Friend Functions & Class==>Private data ને બહારથી access આપવો હોય ત્યારે friend વાપરો.
+//Friend Functions & Class==>Private data Ne baharthi access apvo hoi tyare friend vapro
 #include <iostream>
 using namespace std;
 
@@ -18,3 +18,5 @@ int main() {
     showLength(b);  // Length: 10
     return 0;
 }
+// ANS:=
+// Length: 10

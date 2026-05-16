@@ -30,3 +30,6 @@ int main() {
     vector<int> h = {2,1,5,6,2,3};
     cout << maxArea(h);
 }
+
+//ANS:=
+//10

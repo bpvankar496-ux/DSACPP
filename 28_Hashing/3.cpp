@@ -27,3 +27,10 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// Frequencies:
+// mango -> 1
+// banana -> 1
+// apple -> 2
+// apple found with count 2

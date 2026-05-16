@@ -35,3 +35,7 @@ int main() {
     student.displayStudentInfo();
     return 0;
 }
+// ANS:=
+// Name: Alice
+// Age: 20
+// StudentID: S12345

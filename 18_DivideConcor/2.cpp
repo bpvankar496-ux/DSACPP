@@ -44,11 +44,14 @@ int main() {
     return 0;
 }
 
-// Pivot = છેલ્લો element (4)
-// નાના left, મોટા right
+// Pivot = LAST element (4)
+// SMALL left, BIG right
 
 // {6,3,7,5,2,4} → pivot=4
 // {3,2} [4] {6,7,5}
 //   ↓           ↓
 // {2,3}      {5,6,7}
 // → 2 3 4 5 6 7 
+
+//ANS:=
+//2 3 4 5 6 7 

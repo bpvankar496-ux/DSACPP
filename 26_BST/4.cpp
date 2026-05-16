@@ -60,3 +60,6 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//5 6 8 10 11 

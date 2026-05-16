@@ -40,3 +40,7 @@ int main() {
 
 // First 3 → index 2
 // Last  3 → index 4
+
+//ANS:=
+//First: 2
+//Last: 4

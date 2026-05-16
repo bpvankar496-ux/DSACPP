@@ -32,3 +32,7 @@ int main() {
     
     return 0;
 }
+// ANS:=
+// Dada ni  Property: 10 vingha jamin 
+// pita no  Business: shope
+// son ni Skill: Computer Engineer

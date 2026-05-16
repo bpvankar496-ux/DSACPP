@@ -18,7 +18,7 @@ void binString(int n, int lastPlace, string ans) {
     }
 }
 
-// Method 2 - Without lastPlace
+//Method 2 - Without lastPlace
 void binString(int n, string ans) {
     if(n == 0) {
         cout << ans << endl;
@@ -44,3 +44,18 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// Method 1 (with lastPlace):
+// 000
+// 001
+// 010
+// 100
+// 101
+
+// Method 2 (without lastPlace):
+// 000
+// 001
+// 010
+// 100
+// 101

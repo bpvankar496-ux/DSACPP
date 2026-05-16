@@ -26,3 +26,6 @@ int main() {
     cout << "Output: " << getSmallestString(n, k) << endl;
     return 0;
 }
+
+//ANS:=
+//Output: aay

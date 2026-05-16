@@ -38,3 +38,6 @@ int main() {
 
     cout << maxPathSum(root);
 }
+
+//ANS:=
+//6

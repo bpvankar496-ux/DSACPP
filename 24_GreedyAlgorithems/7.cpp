@@ -20,7 +20,7 @@ int maxProfit(vector<pair<int,int>> jobs) {
         maxDeadline = max(maxDeadline, job.first);
     }
 
-    // स्लॉट array (initially empty)
+    // Slot array (initially empty)
     vector<int> slot(maxDeadline + 1, -1);
 
     int profit = 0;
@@ -61,3 +61,9 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// Selected jobs:
+// Job (d=1, p=40)
+// Job (d=4, p=20)
+// max profit from jobs : 60

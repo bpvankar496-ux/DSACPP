@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     map<int, string> m;
 
-    // 🔹 Insert
+    //  Insert
     m[101] = "rahul";
     m[110] = "neha";
     m[131] = "amit";
@@ -60,3 +60,29 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// After insertion:
+// 101 -> rahul
+// 110 -> neha
+// 131 -> amit
+
+// Size of map: 3
+
+// Value at key 110: neha
+
+// Finding key 101:
+// Key 101 found, value = rahul
+
+// Deleting key 110...
+// After deletion:
+// 101 -> rahul
+// 131 -> amit
+
+// Check key 131 exists or not:
+// Yes exists
+
+// Is map empty? No
+
+// Clearing map...
+// Size after clear: 0

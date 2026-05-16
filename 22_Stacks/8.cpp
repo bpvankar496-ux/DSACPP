@@ -29,3 +29,6 @@ int main() {
     vector<int> arr = {4, 5, 2, 10};
     nextGreater(arr);
 }
+
+//ANS:=
+//5 10 10 -1 

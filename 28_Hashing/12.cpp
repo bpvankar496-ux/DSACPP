@@ -50,3 +50,6 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//Mumbai -> Delhi -> Goa -> Chennai -> Bangalore -> destination

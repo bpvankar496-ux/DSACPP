@@ -32,3 +32,7 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//1 7 6 4 3 2 5 
+//count = 7

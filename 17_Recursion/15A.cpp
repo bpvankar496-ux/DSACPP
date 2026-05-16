@@ -27,3 +27,6 @@ int main() {
     cout << countSubstrs(str, 0, n-1, n) << endl;
     return 0;
 }
+
+//ANS:=
+//7

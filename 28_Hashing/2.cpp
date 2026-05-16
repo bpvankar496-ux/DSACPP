@@ -111,3 +111,15 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// 0 -> (apple,10) -> (mango,30) -> NULL
+// 1 -> NULL
+// 2 -> (grapes,40) -> NULL
+// 3 -> NULL
+// 4 -> NULL
+// 5 -> NULL
+// 6 -> (orange,50) -> NULL
+// 7 -> NULL
+// 8 -> NULL
+// 9 -> (banana,20) -> NULL

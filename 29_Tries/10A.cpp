@@ -57,3 +57,8 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// [ bat ]
+// [ tan nat ]
+// [ eat tea ate ]

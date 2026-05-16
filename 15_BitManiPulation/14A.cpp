@@ -1,4 +1,4 @@
-//Question: Array માં બધા numbers બે વખત આવે છે, ફક્ત એક number એક જ વખત આવે છે - એ શોધો. 
+//Question: Array Maa badha numbers be vakht ave ch, only ekk number ek j vakht ave te sodho 
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -18,3 +18,5 @@ int main() {
     cout << singleNumber(nums) << endl;
     return 0;
 }
+//ANS:=
+//4

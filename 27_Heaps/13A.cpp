@@ -54,3 +54,6 @@ int main() {
 
     for (int x : feed) cout << x << " ";
 }
+
+//ANS:=
+//5

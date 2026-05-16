@@ -20,3 +20,5 @@ int main() {
     cout << "Output: " << maxProfit(prices) << endl;
     return 0;
 }
+//ANS:=
+//Output: 5

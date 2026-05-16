@@ -1,4 +1,4 @@
-//Recursion==> Function પોતાને જ વારંવાર call કરે ત્યારે તેને Recursion કહેવાય.
+//Recursion==> Function potane j varvar  call kare tyare tene Recursion kahevay
 //print factorioul
 #include <iostream>
 using namespace std;
@@ -15,3 +15,5 @@ int main() {
     cout << ans << endl;
     return 0;
 }
+//ANS:=
+//24

@@ -60,3 +60,9 @@ int main() {
 //              B   C
 //               \ /
 //                D
+
+// ANS:=
+// Vehicle runs on fuel 
+// Car: 4 doors 
+// Truck: Heavy load 
+// SportsTruck: Fast + Strong! 

@@ -36,3 +36,6 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//Union : 4 2 7 3 9 6 

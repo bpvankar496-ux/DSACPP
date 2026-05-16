@@ -19,7 +19,10 @@ int main() {
 // print(3) → 3, print(2)
 // print(2) → 2, print(1)
 // print(1) → 1, print(0)
-// print(0) → return 
+// print(0) → return
+
+//ANS:=
+//5 4 3 2 1
 
 //print 1 to n
 #include <iostream>
@@ -37,3 +40,6 @@ int main() {
     print(5);
     return 0;
 }
+
+//ANS:=
+//1 2 3 4 5

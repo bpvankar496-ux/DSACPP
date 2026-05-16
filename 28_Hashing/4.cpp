@@ -28,3 +28,8 @@ int main(){
 
     return 0;
 }
+
+//ANS:=
+// Elements:
+// 30 20 10 
+// 20 Found

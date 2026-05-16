@@ -3,7 +3,7 @@
 //       ↓
 // pivot = 4
 // {3,2} [4] {6,7,5}
-// Left અને Right બંને side roughly equal
+// Left અને Right Banne side roughly equal
 // → O(N logN) 
 
 
@@ -11,19 +11,19 @@
 // {1, 2, 3, 4, 5}
 // pivot = 5 (છેલ્લો)
 
-// [] [5] {1,2,3,4}  ← Left side ખાલી!
+// [] [5] {1,2,3,4}  ← Left side khali!
 //         pivot=4
-//    [] [4] {1,2,3} ← ફરી Left ખાલી!
+//    [] [4] {1,2,3} ← fari Left khali!
 //            pivot=3
 //       [] [3] {1,2}
 
 
        //logic//
-//       Round 1 → n   elements જોયા
-// Round 2 → n-1 elements જોયા
-// Round 3 → n-2 elements જોયા
+//       Round 1 → n   elements joya
+// Round 2 → n-1 elements 
+// Round 3 → n-2 elements 
 // ...
-// Round n → 1   element જોયો
+// Round n → 1   element 
 // Total = n+(n-1)+(n-2)+...+1
 //       = n(n+1)/2
 //       = O(N²) 
@@ -79,3 +79,7 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//Before: 1 2 3 4 5 
+//After:  1 2 3 4 5 

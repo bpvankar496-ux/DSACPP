@@ -22,3 +22,6 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//MIN abs diff = 0

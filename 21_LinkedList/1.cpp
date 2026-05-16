@@ -209,3 +209,28 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// Push Back:
+// 1 -> 2 -> 3 -> NULL
+// Push Front:
+// 0 -> 1 -> 2 -> 3 -> NULL
+// Insert Middle (pos=2):
+// 0 -> 1 -> 9 -> 2 -> 3 -> NULL
+// Pop Front:
+// Deleted: 0
+// 1 -> 9 -> 2 -> 3 -> NULL
+// Pop Back:
+// Deleted: 3
+// 1 -> 9 -> 2 -> NULL
+// Search 9: Found
+// Recursive Search 3: Not Found
+// Reverse:
+// 2 -> 9 -> 1 -> NULL
+// Remove 2nd from end:
+// Deleted: 9
+// 2 -> 1 -> NULL
+// Delete Full List:
+// Deleted: 2
+// Deleted: 1
+// NULL

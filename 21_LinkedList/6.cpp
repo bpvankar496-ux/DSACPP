@@ -68,3 +68,6 @@ int main() {
 
     return 0;
 }
+// ANS:=
+// 5 -> 3 -> 8 -> 1 -> 2 -> NULL
+// Mid = 8

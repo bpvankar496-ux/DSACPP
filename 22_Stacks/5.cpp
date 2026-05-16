@@ -22,3 +22,6 @@ string reverseString(string str) {
 int main() {
     cout << reverseString("hello");
 }
+
+//ANS:=
+//olleh

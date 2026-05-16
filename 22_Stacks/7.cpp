@@ -29,3 +29,6 @@ int main() {
 
     for (int x : span) cout << x << " ";
 }
+
+//ANS:=
+//1 1 1 2 1 5 7 

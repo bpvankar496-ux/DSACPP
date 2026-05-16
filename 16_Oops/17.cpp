@@ -1,4 +1,4 @@
-// Pure Virtual Function==>Child class ને forcefully function define કરવો પડે - Abstract Class બને.
+// Pure Virtual Function==>Child class ne forcefully function define karvo pade - Abstract Class bne
 #include <iostream>
 using namespace std;
 
@@ -20,3 +20,5 @@ int main() {
     c.area();  // → Circle area = 3.14 * r * r
     return 0;
 }
+// ANS:=
+// Circle area = 3.14 * r * r

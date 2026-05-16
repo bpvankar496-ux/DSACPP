@@ -42,3 +42,6 @@ int main() {
     cout << decodeString(s);
     return 0;
 }
+
+//ANS:=
+//abcbcabcbcabcbc

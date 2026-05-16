@@ -29,3 +29,6 @@ int main() {
     cout << gridWays(0, 0, n, m);
     return 0;
 }
+
+//ANS:=
+//6

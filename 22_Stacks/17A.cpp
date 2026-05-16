@@ -35,3 +35,6 @@ int main() {
     cout << simplifyPath(path);
     return 0;
 }
+
+//ANS:=
+///home/foo

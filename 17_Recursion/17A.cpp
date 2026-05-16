@@ -31,3 +31,6 @@ int main() {
     cout << countGoodNumbers(4) << endl;
     return 0;
 }
+
+//ANS:=
+//400

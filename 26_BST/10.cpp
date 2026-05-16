@@ -80,3 +80,6 @@ int main() {
 
     preorder(root);
 }
+
+//ANS:=
+//3 1 2 9 4 12 

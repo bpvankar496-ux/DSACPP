@@ -20,3 +20,5 @@ int main() {
     cout << endl;
     return 0;
 }
+//ANS:=
+//1 5 7 8

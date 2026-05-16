@@ -42,3 +42,7 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//30
+//20

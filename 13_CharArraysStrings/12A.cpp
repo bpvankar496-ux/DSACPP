@@ -4,7 +4,7 @@
 // Operation 2: બે characters ને એકબીજા સાથે બદલો
 // At most આ operations વાપરીને બંને strings 
 // equal બनावી શકાય તો true, નહીં તો false.
-
+//INSHOT ANAGRAM VADA JEVO J QUE.
 #include <iostream>
 #include <string>
 using namespace std;
@@ -65,3 +65,7 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//1
+//0

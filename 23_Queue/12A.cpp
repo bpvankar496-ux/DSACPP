@@ -21,3 +21,6 @@ int main() {
     int k = 2;
     cout << timeRequiredToBuy(tickets, k);
 }
+
+//ANS:=
+//6

@@ -33,3 +33,7 @@ int main() {
 
     return 0;
 }
+// ANS:=
+// int: 25
+// string: apnacollege
+// float: 3.14

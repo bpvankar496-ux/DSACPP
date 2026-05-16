@@ -46,3 +46,6 @@ int main() {
     for (auto n : res)
         cout << n->data << " ";
 }
+
+//ANS:=
+//4 2

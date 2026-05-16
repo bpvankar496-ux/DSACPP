@@ -1,5 +1,5 @@
-// Question: Array ની XOR Beauty શોધો - જ્યાં બધા possible triplets (i,j,k) માટે (nums[i] | nums[j]) & nums[k] નું XOR return કરવાનું છે. 
-// Logic: બધું simplify થઈને ફક્ત (OR of all) & (XOR of all) બને છે
+// Question: Array ni XOR Beauty sodho - jya badha possible triplets (i,j,k) mate (nums[i] | nums[j]) & nums[k] nu XOR return karvanu ch 
+// Logic: badhu simplify thaine fakt (OR of all) & (XOR of all) bane ch
  #include <iostream>
 #include <vector>
 using namespace std;
@@ -20,3 +20,5 @@ int main() {
     cout << xorBeauty(nums) << endl;
     return 0;
 }
+//ANS:=
+//5

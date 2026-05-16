@@ -66,3 +66,7 @@ int main(){
 // vis vector rakhe chhe — kai cell already visit karyu chhe te track kare
 // Destination pahonche to path print karo
 // Nahi pahonche to backtrack karo
+
+//ANS:=
+// DDRDRR
+// DRDDRR

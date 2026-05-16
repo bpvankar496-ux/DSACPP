@@ -11,3 +11,11 @@ int main(){
     delete p;  // memory free
     return 0;
 }
+//ANS:=
+//10
+
+// Stack	                Heap
+// automatic memory	        manual memory
+// fast	                    thodu slow
+// compiler manage kare 	programmer manage kare
+// local variables	        dynamic memory

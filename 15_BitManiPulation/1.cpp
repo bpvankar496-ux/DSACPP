@@ -13,3 +13,8 @@ int main(){
 
     return 0;
 }
+//pela number n binary 0 n 1 vada ma fervavu pachi + karvu uper na rule pamane pachi je ans ave ene number ma 
+//ANS:=
+//1
+//7
+//6

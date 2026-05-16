@@ -16,3 +16,5 @@ int main() {
     cout << clearIthBit(6, 1) << endl;
     return 0;
 }
+//ANS:=
+//4

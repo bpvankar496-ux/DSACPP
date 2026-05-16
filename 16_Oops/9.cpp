@@ -1,4 +1,4 @@
-// Multiple Inheritance==>એક Child → Multiple Parents
+// Multiple Inheritance==>EKK Child → Multiple Parents
 #include<iostream>
 using namespace std;
 
@@ -33,3 +33,7 @@ int main() {
     
     return 0;
 }
+// ANS:=
+// from mother: cooking
+// from father: drive a car
+// student ni study

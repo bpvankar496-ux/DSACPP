@@ -27,7 +27,7 @@ Node* buildTree(vector<int>& nodes) {
     return root;
 }
 
-// 🔥 Optimized LCA
+//  Optimized LCA
 Node* LCA_fast(Node* root, int n1, int n2) {
     if (root == NULL) return NULL;
 
@@ -60,3 +60,6 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//LCA of 4 and 5 is: 2

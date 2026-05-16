@@ -7,6 +7,7 @@
 // NOT=>flip karo=11111011//1 pelu ch msb je nkki kare k sankhya - ma avse 0 hot to + n pachdna 7 magnitude 
 // 1st =>flip 7 nu magnitude vadu=0000100
 // 2nd=> +1 karo 0000101 ans je 5 so final ans -5
+//inshot 1st ank nishani nkki kre n pachda ank ma +1 kro e ans 
 
 //short cut ==>~a=>(-(a+1))
 #include <iostream>
@@ -20,3 +21,8 @@ int main(){
 
     return 0;
 }
+
+// ANS:=
+//-5
+//-7
+//-1

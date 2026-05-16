@@ -27,7 +27,7 @@ int maxChainLength(vector<pair<int,int>> pairs) {
         }
     }
 
-    // 🔥 print selected pairs
+    //  print selected pairs
     cout << "Selected pairs:\n";
     for(auto p : selected) {
         cout << "(" << p.first << ", " << p.second << ")\n";
@@ -51,3 +51,10 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// Selected pairs:
+// (5, 24)
+// (27, 40)
+// (50, 90)
+// Max chain length = 3

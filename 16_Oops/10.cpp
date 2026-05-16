@@ -49,3 +49,7 @@ int main() {
     
     return 0;
 }
+// ANS:=
+// Rectangle Area = 15
+// Triangle Area = 12
+// Cylinder Volume = 197.82

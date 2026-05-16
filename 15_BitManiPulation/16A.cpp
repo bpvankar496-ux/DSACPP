@@ -1,5 +1,5 @@
-// Question: Division operator / વાપર્યા વગર બે integers ને divide કરો. 
-// Logic: Bit shifting થી divisor ને double કરતા જાઓ → જેટલી વખત fit થાય એ count કરો 
+// Question: Division operator / vaprya vagr integers ne divide karo
+// Logic: Bit shifting thi divisor nr double karta jao → jetli vakht fit thyy ee count karo 
 
 //type-1
 #include <iostream>
@@ -65,3 +65,7 @@ int main() {
     cout << divide(7, -2) << endl;   // -3
     return 0;
 }
+
+//ANS:=
+//3
+//-3

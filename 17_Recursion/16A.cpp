@@ -22,3 +22,20 @@ int main() {
     towerOfHanoi(4, "A", "B", "C");
     return 0;
 }
+
+// ANS:=
+// transfer disk 1 from A to B
+// transfer disk 2 from A to B
+// transfer disk 1 from B to C
+// transfer disk 3 from A to C
+// transfer disk 1 from C to A
+// transfer disk 2 from C to A
+// transfer disk 1 from A to B
+// transfer disk 4 from A to B
+// transfer disk 1 from B to C
+// transfer disk 2 from B to C
+// transfer disk 1 from C to A
+// transfer disk 3 from B to A
+// transfer disk 1 from A to B
+// transfer disk 2 from A to B
+// transfer disk 1 from B to C

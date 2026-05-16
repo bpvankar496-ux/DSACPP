@@ -25,3 +25,10 @@ int main(){
 
     return 0;
 }
+
+// ANS:=
+// Sorted Map:
+// 1 -> 10
+// 2 -> 20
+// 3 -> 30
+// Found 2

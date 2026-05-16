@@ -31,3 +31,6 @@ int main() {
     cout << "[" << result[0] << ", " << result[1] << "]" << endl;
     return 0;
 }
+//ANS:=
+//[2, 3]
+

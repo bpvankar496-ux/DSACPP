@@ -38,10 +38,8 @@ public:
 
                 temp->children[ch] = new Node();
             }
-
             temp = temp->children[ch];
         }
-
         temp->endOfWord = true;
     }
 
@@ -104,3 +102,8 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+// 1
+// 1
+// 0

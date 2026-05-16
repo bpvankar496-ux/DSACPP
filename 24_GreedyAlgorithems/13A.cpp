@@ -49,3 +49,6 @@ int main() {
     cout << "Output: " << splitArray(nums, k) << endl;
     return 0;
 }
+
+//ANS:=
+//Output: 18

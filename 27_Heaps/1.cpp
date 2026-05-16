@@ -88,3 +88,9 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// Integer Max Heap (Descending): 10 9 7 5 3 
+// Integer Min Heap (Ascending): 3 5 7 9 10 
+// String Max Heap (Descending): helloworld c++ apnacollege alpha 
+// String Min Heap (Ascending): alpha apnacollege c++ helloworld 

@@ -39,3 +39,6 @@ int main() {
 
     cout << "Count: " << countNodes(root) << endl;
 }
+
+//ANS:=
+//Count: 6

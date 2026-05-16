@@ -55,3 +55,6 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//Diameter (O(n^2)): 5

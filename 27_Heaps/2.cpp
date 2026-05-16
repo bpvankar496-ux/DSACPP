@@ -93,3 +93,8 @@ int main() {
 
     return 0;
 }
+
+// ANS:=
+// Heap after push: 20 15 10 2 5 
+// After 1st pop: 15 5 10 2 
+// After 2nd pop: 10 5 2 

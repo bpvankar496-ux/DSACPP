@@ -27,3 +27,7 @@ int main() {
     cout << maxArea(height) << endl;
     return 0;
 }
+
+//ANS:=
+//49
+

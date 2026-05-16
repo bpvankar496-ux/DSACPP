@@ -38,3 +38,6 @@ int main() {
 
     return 0;
 }
+
+//ANS:=
+//Output: 3 3 5 5 6 7 

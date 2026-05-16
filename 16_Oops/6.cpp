@@ -1,8 +1,7 @@
-// Mode of Inheritance ==>Mode of Inheritance એ નક્કી કરે છે કે Base class ના members, Derived class માં આવ્યા પછી કેટલી accessibility (પહોંચ) ધરાવે છે. ત્રણ modes છે: public, protected, private.
-
-// Public Inheritance:==> જ્યારે : public લખો ત્યારે Base class ના public members, Derived class માં પણ public રહે છે અને protected members, protected રહે છે. Private members ક્યારેય access નથી થતા.
-// Protected Inheritance:==>જ્યારે : protected લખો ત્યારે Base class ના public અને protected બંને members, Derived class માં protected બની જાય છે.
-//Private Inheritance:==>જ્યારે : private લખો ત્યારે Base class ના public અને protected બંને members, Derived class માં private બની જાય છે - એટલે બહારથી કોઈ access ન કરી શકે.
+// Mode of Inheritance ==> Mode of Inheritance e decide kare che ke Base class na members, Derived class ma aavya pachi ketli accessibility (access) rakhe che. 3 modes hoy che: public, protected, private.
+// Public Inheritance ==> Jyare : public lakho tyare Base class na public members, Derived class ma pan public j rahe che ane protected members, protected rahe che. Private members direct access thata nathi.
+// Protected Inheritance ==> Jyare : protected lakho tyare Base class na public ane protected banne members, Derived class ma protected bani jay che.
+// Private Inheritance ==> Jyare : private lakho tyare Base class na public ane protected banne members, Derived class ma private bani jay che etle bahar thi direct access kari sakata nathi.
 
 // BaseClassMember   PublicInheritance   ProtectedInheritance  PrivateInheritance  
 // public                public            protected              private
@@ -66,3 +65,10 @@ int main() {
     
     return 0;
 }
+// ANS:=
+// pub = 100
+// prot = 20
+// pub = 10
+// prot = 20
+// pub = 10
+// prot = 20

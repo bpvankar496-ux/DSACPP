@@ -16,12 +16,17 @@ int main() {
         ComparePair
     > pq;
 
-    pq.push({"aman", 500});
-    pq.push({"bhumika", 1000});
-    pq.push({"chetan", 100});
+    pq.push({"Harsh", 500});
+    pq.push({"Bhoomika", 1000});
+    pq.push({"Vivek", 100});
 
     while(!pq.empty()) {
         cout << pq.top().first << " " << pq.top().second << endl;
         pq.pop();
     }
 }
+
+// ANS:=
+// Bhoomika 1000
+// Harsh 500
+// Vivek 100
